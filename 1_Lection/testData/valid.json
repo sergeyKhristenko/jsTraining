@@ -1,0 +1,19 @@
+{
+	"flag": true,
+	"myPromises": [1,2,3],
+	"element": {
+		"name": "title",
+		"css": ".dd-ui"
+	},
+	"container": {},
+	"screenshot": null,
+	"elementText": "false",
+	"allElementsText": "contain the const",
+	"counter": 11.3,
+	"config": "Common",
+	"const": "first",
+	"parameters": [3,"","add","delete","update","more","--",false],
+	"description": "my project"
+
+}
+	

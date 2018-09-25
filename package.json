@@ -1,0 +1,17 @@
+{
+  "name": "nodejstraining",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergeyKhristenko/jsTraining.git"
+  },
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine": "3.2.0"
+  },
+  "scripts": {
+    "test": "jasmine"
+  }
+}

@@ -1,0 +1,18 @@
+{
+	"flag": false,
+	"myPromises": null,
+	"element": {
+		"name": "title",
+		"css": ".dd-ui"
+	},
+	"screenshot": "some",
+	"elementText": "false",
+	"allElementsText": "contain the const",
+	"counter": true,
+	"config": "the Common",
+	"const": "the second const",
+	"parameters": ["0","","add","delete","update","more","--",false],
+	"description": "my project",
+	"elementName":"filter"
+}
+	

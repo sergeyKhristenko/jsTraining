@@ -1,0 +1,13 @@
+{
+	"flag": "1",
+	"myPromises": [1,2,3],
+	"element": [],
+	"screenshot": false,
+	"elementText": "",
+	"allElementsText": ["const"],
+	"counter": "12",
+	"config": "not a Common",
+	"const": "the first const",
+	"parameters": [3,"","add","delete","update","more","--",false],
+	"description": "my first project on js"
+}

@@ -1,0 +1,16 @@
+{
+	"flag": "0",
+	"myPromises": [1,2,3],
+	"element": "title",
+	"css": ".dd-ui",
+	"screenshot": null,
+	"elementText": "browser",
+	"allElementsText": "contain the cost",
+	"counter": 113,
+	"config": "not a Common",
+	"const": "the first const",
+	"parameters": [3,"","add","delete","update","",false],
+	"description": "my first project on js"
+
+}
+	
