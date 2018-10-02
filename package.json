@@ -7,7 +7,9 @@
     "url": "git+https://github.com/sergeyKhristenko/jsTraining.git"
   },
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "json2xls": "^0.1.2"
+  },
   "devDependencies": {
     "jasmine": "3.2.0"
   },
